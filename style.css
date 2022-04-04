@@ -1,0 +1,25 @@
+h1{
+    font-size: 36px;
+    text-align: center;
+    line-height: 45px;
+}
+.banner{
+    position: absolute;
+    width: 759px;
+    height: 199px;
+    left: 33px;
+    top: 149px;
+    
+    background: #EAEAEA;
+}
+.items{
+ position: absolute;
+width: 727px;
+height: 213px;
+left: 50px;
+top: 368px;
+
+background: #FFFFFF;
+text-align: center;
+border: 1px solid black;
+}
